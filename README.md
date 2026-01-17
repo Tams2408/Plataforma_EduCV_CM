@@ -1,2 +1,2 @@
-# Plataforma_EduCV_CM
+# Plataforma_EduTrack_CM
 Plataforma de Gestão de notas, faltas, justificações
