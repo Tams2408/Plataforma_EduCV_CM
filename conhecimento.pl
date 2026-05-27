@@ -50,9 +50,9 @@ epoca_mes(dezembro, seca).
 
 clima(santiago, tropical_seco).
 clima(fogo, montanhoso).
-clima(santo_antao, montanhoso).
+clima(santo_antao, humido_montanhoso).
 clima(sao_vicente, seco).
-clima(sao_nicolau, montanhoso).
+clima(sao_nicolau, humido_montanhoso).
 clima(sal, arido).
 clima(boa_vista, arido).
 clima(maio, seco).
